@@ -7,5 +7,5 @@ buttonElement.addEventListener("click", changeText, false);
 
 // what gets called when the button is clicked
 function changeText(e) {
-	textElement.innerText = "hello, world!";
+	textElement.innerText = "External script!";
 }
