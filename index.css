@@ -57,7 +57,7 @@ screens (display the links vertically instead of
 horizontally) */
 @media screen and (max-width: 600px) {
 	.topnav.responsive {position: relative;}
-	.topnav.responsive a.icon {
+	.topnav.responsive .icon {
 		position: absolute;
 		right: 0;
 		top: 0;
